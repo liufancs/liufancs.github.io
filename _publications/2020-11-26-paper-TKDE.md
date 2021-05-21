@@ -1,7 +1,7 @@
 ---
 title: "An Attribute-aware Attentive GCN Model for Recommendation"
 collection: publications
-permalink: /publication/2020-11-26-paper-TKDE
+permalink: /publication/2020-11-26-paper-TKDE.md
 excerpt: 'This paper is about a an Attribute-aware Attentive GCN Model.'
 date: 2020-11-26
 venue: 'Water Resources Research'
