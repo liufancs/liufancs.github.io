@@ -2,12 +2,11 @@
 title: "A2-GCN: An Attribute-aware Attentive GCN Model for Recommendation"
 collection: publications
 permalink: /publication/2020-11-26-paper-TKDE
-excerpt: 'This paper is about a wavelet-based system predition method.'
-date: 2020-02-20
+excerpt: 'This paper is about a an Attribute-aware Attentive GCN Model.'
+date: 2020-11-26
 venue: 'Water Resources Research'
 paperurl: 'https://ieeexplore.ieee.org/document/9272360'
-citation: 'Jiang, Z., Sharma, A., & Johnson, F. (2020). "Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling." <i>Water Resources Research</i>. 56(3), e2019WR026962.'
 ---
-This paper is about a wavelet-based system predition method.
+This paper is about a an Attribute-aware Attentive GCN Model.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9272360)
