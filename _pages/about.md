@@ -19,14 +19,12 @@ I am an engineer, hydro-climatologist and researcher. My research focuses on dro
 * Climate change impact on the water cycle (e.g. floods and droughts)
 
 
-## Selected Journal Publications
-Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
+## Selected Publications
+Fan Liu, Zhiyong Cheng*, Lei Zhu, Zan Gao and Liqiang Nie*. [Interest-aware Message-Passing GCN for Recommendation]. The Web Conference 2021 (WWW'21), Ljubljana, Slovenia, 2021. [link](https://arxiv.org/pdf/2102.10044.pdf)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
+Fan Liu, Zhiyong Cheng*, Lei Zhu, Chenghao Liu and Liqiang Nie*. [An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation]. IEEE Transactions on Knowledge and Data Engineering. [link](https://ieeexplore.ieee.org/document/9272360)
 
-Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-climatological change detection methods to model uncertainty and bias. *Advances in Water Resources*, 134, 103430. [link](https://doi.org/10.1016/j.advwatres.2019.103430)
-
-Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanhalli. [User Diverse Preference Modeling via Multimodal Attentive Metric Learning]. ACM International Conference on Multimedia (MM'19), Nice, France, 2019. [link](https://arxiv.org/abs/1908.07738)
 
 ## For more information
 More info about Fan Liu can be found in [CV](https://liufancs.github.io/cv/) or [downloaded CV](http://liufancs.github.io/files/CV_liufan_Eng.pdf).
