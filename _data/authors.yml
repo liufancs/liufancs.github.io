@@ -18,17 +18,15 @@ Name2 Name2:
   google_plus : "Name"
 
 Ze Jiang:
-  name             : "Ze Jiang"
+  name             : "Fan Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate @UNSW, expert in statistical hydrology"
-  location         : "Sydney, Australia"
+  bio              : "Ph.D. Candidate @Shandong University"
+  location         : "Qingdao, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:billyrick@rick.com"
-    - label: "Website"
+      url: "mailto:liufancs@gmail.com"
+    - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
-      url: "https://thewhip.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/extravagantman"
+      url: "https://scholar.google.com/citations?user=qjECBscAAAAJ&hl=zh-CN"
+   
