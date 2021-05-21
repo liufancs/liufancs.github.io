@@ -39,27 +39,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-#Talks
-#======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
 Languages
 ======
 Chinese, Japanese, English
 
-Skills & Expertise 
-======
-* Statistical hydrology and water resource engineering.
-* Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
-* Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
 Service and leadership
 ======
@@ -69,10 +52,3 @@ Service and leadership
   + Journal of Hydrology
   + International Journal of River Basin Management 
   + Frontiers In Water
-
-Membership
-======
-* American Geosciences Union (AGU)
-* Asia Oceania Geosciences Society (AOGS)
-* International Commission of Statistical Hydrology (ICSH-IAHS)
-* Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
