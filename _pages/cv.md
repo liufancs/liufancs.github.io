@@ -43,12 +43,11 @@ Languages
 ======
 Chinese, Japanese, English
 
-
-Service and leadership
+Skills & Expertise
 ======
-* Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
-* Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
-  + International Journal of River Basin Management 
-  + Frontiers In Water
+* Programming Skills: Java, C/C++, and Python in both Unix and Windows systems.
+
+Awards & Honors
+====
+Scholarship in ShandongUniversity (2018~2020)
+
