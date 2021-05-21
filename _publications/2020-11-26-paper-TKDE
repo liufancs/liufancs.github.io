@@ -1,7 +1,7 @@
 ---
-title: "Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling"
+title: "A2-GCN: An Attribute-aware Attentive GCN Model for Recommendation"
 collection: publications
-permalink: /publication/2020-02-20-paper-WRR
+permalink: /publication/2020-11-26-paper-TKDE
 excerpt: 'This paper is about a wavelet-based system predition method.'
 date: 2020-02-20
 venue: 'Water Resources Research'
