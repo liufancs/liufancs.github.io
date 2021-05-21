@@ -41,7 +41,7 @@ Publications
  
 Languages
 ======
-Chinese, Japanese, English
+Chinese, English, Japanese
 
 Skills & Expertise
 ======
