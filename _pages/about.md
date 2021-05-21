@@ -11,12 +11,12 @@ redirect_from:
 This is Fan Liu's personal homepage.
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+I am a Ph.D Candidate with the School of Computer Science and Technology, Shandong University, China. I reveived the B.Eng. degree from Southeast University in China and the Master degree from the Kansai University in Japan. My research interests include information retrieval, multimedia and privacy preservation. I am currently studying at [N-CRiPT@NUS](https://ncript.comp.nus.edu.sg/).
 
 <b>RESEARCH INTEREST:</b>
-* Wavelet based time series decomposition and transformation
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
+* Information Retrieval
+* Multimedia
+* Privacy Preservation
 
 
 ## Selected Publications
