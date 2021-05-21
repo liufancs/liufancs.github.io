@@ -8,15 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
+Download CV ([Eng](http://liufancs.github.io/files/CV_Liufan_Eng.pdf),[Chi](https://liufancs.github.io/files/CV_Liufan_Chi.pdf))
 ======
 
 Education
 ======
-* B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.S. in HydroInformatics and Water Management, Brandenburg University of Technology, Brandenburg, Germany, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
-	* Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
+* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
+* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021 (expected)
+	* Supervisors: Prof. [Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en) and Prof. [Zhiyong Cheng](https://scholar.google.com/citations?hl=en&user=0ffIKdIAAAAJ)
 
 Work experience
 ======
