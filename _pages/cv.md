@@ -25,7 +25,7 @@ Work experience
 
 * Apr. 2021 - Now: Intern
   * National University of Singapore, Singapore
-  * Supervisor: Prof. Mohan S Kankanhalli
+  * Supervisor: Prof. [Mohan S Kankanhalli](https://scholar.google.com/citations?user=6Lx_eowAAAAJ&hl=th)
   
 Research Interest
 ======
