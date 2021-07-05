@@ -27,11 +27,11 @@ Fan Liu, Zhiyong Cheng*, Lei Zhu, Chenghao Liu and Liqiang Nie*. An Attribute-aw
 Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), Nice, France, 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
 
 ## Services
-* Reviewer for Conference:
+* Reviewer of Conference:
   + ACM MM 2020, 2021
   + MMM 2020
   + PCM 2018 (External Reviewer)
-* Reviewer for Journal:
+* Reviewer of Journal:
   + Information Sciences (INS)
   + Information Processing and Management (IPM)
   + Multimedia Systems (MMSJ)
