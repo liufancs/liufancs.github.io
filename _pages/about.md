@@ -30,6 +30,7 @@ Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanha
 * Reviewer of Conference:
   + ACM MM 2020, 2021
   + CIKM 2021
+  + ACM MM Asia 2021
   + MMM 2020
   + PCM 2018 (External Reviewer)
 * Reviewer of Journal:
