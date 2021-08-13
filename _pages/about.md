@@ -34,6 +34,7 @@ Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanha
   + MMM 2020
   + PCM 2018 (External Reviewer)
 * Reviewer of Journal:
+  + Transactions on Knowledge and Data Engineering (TKDE)
   + Information Sciences (INS)
   + Information Processing and Management (IPM)
   + Multimedia Systems (MMSJ)
