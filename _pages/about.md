@@ -20,13 +20,13 @@ I am currently a Research Fellow with [Prof. Mohan S. Kankanhalli](https://www.c
 
 
 ## Publications
-Zhiyong Cheng, \textbf{Fan Liu}, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. Transaction on Information Systems (TOIS), 2021. 
+Zhiyong Cheng, \bm{Fan Liu}, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. Transaction on Information Systems (TOIS), 2021. [CCF A]
 
-\textbf{Fan Liu}, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference 2021 (WWW'21), Ljubljana, Slovenia, 2021. [CCF A] [link](https://arxiv.org/pdf/2102.10044.pdf) 
+\bm{Fan Liu}, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference 2021 (WWW'21), Ljubljana, Slovenia, 2021. [CCF A] [link](https://arxiv.org/pdf/2102.10044.pdf) 
 
-Fan Liu, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [CCF A] [link](https://ieeexplore.ieee.org/document/9272360) 
+\bm{Fan Liu}, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [CCF A] [link](https://ieeexplore.ieee.org/document/9272360) 
 
-Fan Liu, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), Nice, France, 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
+\bm{Fan Liu}, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), Nice, France, 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
 
 ## Services
 * Reviewer of Conference:
