@@ -11,7 +11,7 @@ redirect_from:
 This is Fan Liu's personal homepage.
 
 ## A short introduction
-I am currently a Research Fellow with [Prof. Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) in [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). I received my Ph.D degree at Shandong University, under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/index.html). I received mythe B.Eng. degree from Southeast University in China and the Master degree from the Kansai University in Japan. My research interests include information retrieval and recommendation, multimedia and privacy preservation. I was a visiting scholar at [N-CRiPT@NUS](https://ncript.comp.nus.edu.sg/) in 2021.
+I am currently a Research Fellow with [Prof. Mohan S. Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) in [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). I received my Ph.D degree at [Shandong University](https://www.sdu.edu.cn/), under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/index.html). I received mythe B.Eng. degree from [Southeast University](https://www.seu.edu.cn/) in China and the Master degree from the [Kansai University](https://www.kansai-u.ac.jp/) in Japan. My research interests include information retrieval and recommendation, multimedia and privacy preservation. I was a visiting scholar at [N-CRiPT@NUS](https://ncript.comp.nus.edu.sg/) in 2021.
 
 <b>RESEARCH INTEREST:</b>
 * Information Retrieval and Recommendation
@@ -28,6 +28,7 @@ Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanha
 
 ## Services
 * Reviewer of Conference:
+  + WSDM 2022
   + ACM MM 2020, 2021
   + CIKM 2021
   + ACM MM Asia 2021
@@ -35,6 +36,7 @@ Fan Liu, Zhiyong Cheng*, Changchang, Yinglong Wang, Liqiang Nie*, Mohan Kankanha
   + PCM 2018 (External Reviewer)
 * Reviewer of Journal:
   + Transactions on Knowledge and Data Engineering (TKDE)
+  + Transactions on Multimedia (TMM)
   + Information Sciences (INS)
   + Information Processing and Management (IPM)
   + Multimedia Systems (MMSJ)
