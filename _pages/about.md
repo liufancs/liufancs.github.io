@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-\usepackage{bm}
 This is Fan Liu's personal homepage.
 
 ## A short introduction
