@@ -41,4 +41,4 @@ Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie.
 
 
 ## For more information
-More info about Fan Liu can be found in [CV](https://liufancs.github.io/cv/) or [downloaded CV](http://liufancs.github.io/files/CV_liufan_Eng.pdf).
+More info about Fan Liu can be found in [CV](https://liufancs.github.io/cv/).
