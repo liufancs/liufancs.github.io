@@ -29,9 +29,8 @@ Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie.
 
 ## Community Services
 * Program Committee Member of **WSDM 2022** 
-* Technical Program Committee Member of **ACM MM 2021**
+* Technical Program Committee Member of **ACM MM 2021, 2020**
 * Invited Reviewer for **MM Asia 2021**
-* Technical Program Committee Member of **ACM MM 2020**
 * Invited Reviewer for **Transactions on Knowledge and Data Engineering (TKDE)**
 * Invited Reviewer for **Transactions on Multimedia (TMM)**
 * Invited Reviewer for **Information Sciences (INS)**
