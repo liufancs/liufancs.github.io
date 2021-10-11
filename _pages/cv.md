@@ -8,24 +8,24 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://liufancs.github.io/files/CV_Liufan_Eng.pdf),[Chi](https://liufancs.github.io/files/CV_Liufan_Chi.pdf))
 ======
 
 Education
 ======
-* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
-* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
-* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021 (expected)
+* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021
 	* Supervisors: Prof. [Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en) and Prof. [Zhiyong Cheng](https://scholar.google.com/citations?hl=en&user=0ffIKdIAAAAJ)
+* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
+* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
+
 
 Work experience
 ======
-* Sep. 2015 - Aug. 2018: Lecturer
-  * Jining University, Jining, China
-
-* Apr. 2021 - Now: Intern
+* Apr. 2021 - Sep. 2021 : Visiting Scholar
   * National University of Singapore, Singapore
   * Supervisor: Prof. [Mohan S Kankanhalli](https://scholar.google.com/citations?user=6Lx_eowAAAAJ&hl=th)
+ 
+* Sep. 2015 - Aug. 2018: Lecturer
+  * Jining University, China
   
 Research Interest
 ======
@@ -41,11 +41,7 @@ Publications
  
 Languages
 ======
-Chinese, English, Japanese
-
-Skills & Expertise
-======
-* Programming Skills: Java, C/C++, and Python in both Unix and Windows systems.
+English, Chinese, Japanese
 
 Awards & Honors
 ====
