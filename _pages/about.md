@@ -25,7 +25,7 @@ Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie.
 
 **Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [CCF A] [link](https://ieeexplore.ieee.org/document/9272360) 
 
-**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), Nice, France, 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
+**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
 
 ## Community Services
 * Program Committee Member of **WSDM 2022** 
