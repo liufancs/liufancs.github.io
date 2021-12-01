@@ -19,7 +19,7 @@ I am currently a Research Fellow with [Prof. Mohan S. Kankanhalli](https://www.c
 
 
 ## Publications
-Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2021. [CCF A]
+Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2021. [CCF A] [link](https://arxiv.org/abs/2102.10745)
 
 **Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference 2021 (WWW'21), Ljubljana, Slovenia, 2021. [CCF A] [link](https://arxiv.org/pdf/2102.10044.pdf) 
 
