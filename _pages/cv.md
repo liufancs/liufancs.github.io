@@ -26,7 +26,7 @@ Work experience
   * NUS Centre for Research in Privacy Technologies (N-CRiPT), National University of Singapore, Singapore
   * Supervisor: Prof. [Mohan S Kankanhalli](https://scholar.google.com/citations?user=6Lx_eowAAAAJ&hl=th)
 * Sep. 2015 - Aug. 2018: Lecturer
-  * Jining University, China
+  * Department of Computing, Jining University, China
   
 Research Interest
 ======
