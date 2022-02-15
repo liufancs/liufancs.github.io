@@ -20,10 +20,11 @@ Education
 
 Work experience
 ======
+* Oct. 2021 - Now: Research Fellow
+  * School of Computing, National University of Singapore, Singapore 
 * Apr. 2021 - Sep. 2021 : Visiting Scholar
-  * National University of Singapore, Singapore
+  * NUS Centre for Research in Privacy Technologies (N-CRiPT), National University of Singapore, Singapore
   * Supervisor: Prof. [Mohan S Kankanhalli](https://scholar.google.com/citations?user=6Lx_eowAAAAJ&hl=th)
- 
 * Sep. 2015 - Aug. 2018: Lecturer
   * Jining University, China
   
