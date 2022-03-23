@@ -33,6 +33,8 @@ Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie.
 * Invited Reviewer for **ICPR 2022, MM Asia 2021**
 * Invited Reviewer for **Transactions on Knowledge and Data Engineering (TKDE)**
 * Invited Reviewer for **Transactions on Multimedia (TMM)**
+* Invited Reviewer for **Transactions on Circuits and Systems for Video Technology
+ (TCSVT)**
 * Invited Reviewer for **Information Sciences (INS)**
 * Invited Reviewer for **Information Processing and Management (IPM)**
 * Invited Reviewer for **Multimedia Systems (MMSJ))**
