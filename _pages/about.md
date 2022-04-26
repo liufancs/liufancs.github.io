@@ -19,6 +19,8 @@ I am currently a Research Fellow with [Prof. Mohan S. Kankanhalli](https://www.c
 
 
 ## Publications
+
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems.  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [CCF A]
 Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2021. [CCF A] [link](https://arxiv.org/abs/2102.10745)
 
 **Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference (WWW'21), 2021. [CCF A] [link](https://arxiv.org/pdf/2102.10044.pdf) 
