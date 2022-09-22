@@ -20,15 +20,17 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 ## Publications
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems.  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [CCF A]
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems.  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [link](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)[code](https://github.com/HuilinChenJN/UPC-SDG)
 
-Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2022. [CCF A] [link](https://arxiv.org/abs/2102.10745)
+Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2022. [link](https://arxiv.org/abs/2102.10745)[code](https://github.com/liufancs/FLA)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference (WWW'21), 2021. [CCF A] [link](https://arxiv.org/pdf/2102.10044.pdf) 
+Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [link](https://arxiv.org/abs/2201.03482)[code](https://github.com/AnsongLi/Disen-GNN)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [CCF A] [link](https://ieeexplore.ieee.org/document/9272360) 
+**Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference (WWW'21), 2021. [link](https://arxiv.org/pdf/2102.10044.pdf) [code](https://github.com/liufancs/IMP_GCN)
 
-**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), 2019. [CCF A] [link](https://arxiv.org/abs/1908.07738) 
+**Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [link](https://ieeexplore.ieee.org/document/9272360) [code](https://github.com/liufancs/a2_gcn)
+
+**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), 2019. [link](https://arxiv.org/abs/1908.07738)[code](https://github.com/liufancs/MAML) 
 
 ## Community Services
 * Program Committee Member of **KDD 2022, WSDM 2022** 
