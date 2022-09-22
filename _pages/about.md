@@ -22,6 +22,8 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems.  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [link](https://dl.acm.org/doi/abs/10.1145/3477495.3532044) [code](https://github.com/HuilinChenJN/UPC-SDG)
 
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. IEEE Transactions on Multimedia. [link](https://arxiv.org/abs/2203.05406) [code](https://github.com/liufancs/DMRL)
+
 Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2022. [link](https://arxiv.org/abs/2102.10745) [code](https://github.com/liufancs/FLA)
 
 Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [link](https://arxiv.org/abs/2201.03482) [code](https://github.com/AnsongLi/Disen-GNN)
