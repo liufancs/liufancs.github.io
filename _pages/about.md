@@ -20,19 +20,19 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 ## Publications
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems.  ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [link](https://dl.acm.org/doi/abs/10.1145/3477495.3532044) [code](https://github.com/HuilinChenJN/UPC-SDG)
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. [Privacy-Preserving Synthetic Data Generation for Recommendation Systems](https://dl.acm.org/doi/abs/10.1145/3477495.3532044). ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [code](https://github.com/HuilinChenJN/UPC-SDG)
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. IEEE Transactions on Multimedia (TMM), 2022. [link](https://arxiv.org/abs/2203.05406) [code](https://github.com/liufancs/DMRL)
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Anan Liu, Liqiang Nie, Mohan Kankanhalli. [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/abs/2203.05406). IEEE Transactions on Multimedia (TMM), 2022. [code](https://github.com/liufancs/DMRL)
 
-Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. Feature-level Attentive ICF for Recommendation. ACM Transaction on Information Systems (TOIS), 2022. [link](https://arxiv.org/abs/2102.10745) [code](https://github.com/liufancs/FLA)
+Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu and Liqiang Nie. [Feature-level Attentive ICF for Recommendation](https://arxiv.org/abs/2102.10745). ACM Transaction on Information Systems (TOIS), 2022. [code](https://github.com/liufancs/FLA)
 
-Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [link](https://arxiv.org/abs/2201.03482) [code](https://github.com/AnsongLi/Disen-GNN)
+Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. [Disentangled Graph Neural Networks for Session-based Recommendation](https://arxiv.org/abs/2201.03482). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2022. [code](https://github.com/AnsongLi/Disen-GNN)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. The Web Conference (WWW'21), 2021. [link](https://arxiv.org/pdf/2102.10044.pdf) [code](https://github.com/liufancs/IMP_GCN)
+**Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao and Liqiang Nie. [Interest-aware Message-Passing GCN for Recommendation](https://arxiv.org/pdf/2102.10044.pdf). The Web Conference (WWW'21), 2021. [code](https://github.com/liufancs/IMP_GCN)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [link](https://ieeexplore.ieee.org/document/9272360) [code](https://github.com/liufancs/a2_gcn)
+**Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu and Liqiang Nie. [An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation](https://ieeexplore.ieee.org/document/9272360). IEEE Transactions on Knowledge and Data Engineering (TKDE), 2020. [code](https://github.com/liufancs/a2_gcn)
 
-**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. ACM International Conference on Multimedia (MM'19), 2019. [link](https://arxiv.org/abs/1908.07738) [code](https://github.com/liufancs/MAML) 
+**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. [User Diverse Preference Modeling via Multimodal Attentive Metric Learning](https://arxiv.org/abs/1908.07738). ACM International Conference on Multimedia (MM'19), 2019. [code](https://github.com/liufancs/MAML) 
 
 ## Community Services
 * Program Committee Member of **KDD 2022, WSDM 2022** 
