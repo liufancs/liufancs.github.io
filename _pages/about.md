@@ -20,7 +20,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 ## Publications
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. [Privacy-Preserving Synthetic Data Generation for Recommendation Systems](https://dl.acm.org/doi/abs/10.1145/3477495.3532044). ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [code](https://github.com/HuilinChenJN/UPC-SDG)
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. [Privacy-Preserving Synthetic Data Generation for Recommendation Systems](https://dl.acm.org/doi/abs/10.1145/3477495.3532044). ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR '22), 2022. [[CODE](https://github.com/HuilinChenJN/UPC-SDG)]
 
 **Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. [Disentangled Multimodal Representation Learning for Recommendation](https://arxiv.org/abs/2203.05406). IEEE Transactions on Multimedia (TMM), 2022. [[CODE](https://github.com/liufancs/DMRL)]
 
