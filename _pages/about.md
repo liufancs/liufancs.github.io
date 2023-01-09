@@ -33,8 +33,9 @@ Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. [Disenta
 **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. [User Diverse Preference Modeling via Multimodal Attentive Metric Learning](https://arxiv.org/abs/1908.07738). ACM International Conference on Multimedia (MM'19), 2019. [[CODE](https://github.com/liufancs/MAML)]
 
 ## Community Services
-* Program Committee Member of **KDD 2022, WSDM 2022** 
-* Technical Program Committee Member of **ACM MM 2022, 2021, 2020**
+* Program Committee Member of **KDD 2023, WSDM 2023**
+* Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
+* Program Committee Member of **ACM MM 2021, 2020**
 * Invited Reviewer for **ICPR 2022, MM Asia 2021**
 * Invited Reviewer for **Transactions on Knowledge and Data Engineering (TKDE)**
 * Invited Reviewer for **Transactions on Multimedia (TMM)**
