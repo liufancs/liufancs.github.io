@@ -17,8 +17,9 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 
 ## Selected Publications
+Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [CODE](https://github.com/SS-00-SS/MBCGCN) [PDF](https://arxiv.org/pdf/2303.15720.pdf)
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [CODE](https://github.com/HuilinChenJN/UPC-SDG) [PDF]((https://dl.acm.org/doi/abs/10.1145/3477495.3532044))
+**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie and Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [CODE](https://github.com/HuilinChenJN/UPC-SDG) [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
 
 **Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. IEEE Transactions on Multimedia (TMM), 2022. [CODE](https://github.com/liufancs/DMRL) [PDF](https://arxiv.org/abs/2203.05406)
 
