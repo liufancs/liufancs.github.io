@@ -2,6 +2,8 @@
 layout: archive
 permalink: /CV/
 author_profile: False
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
