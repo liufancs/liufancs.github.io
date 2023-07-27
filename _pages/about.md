@@ -18,7 +18,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 ## Selected Publications
 **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
-Recommendation. MM, 2023. [CODE](https://github.com/HuilinChenJN/SGFD) [PDF]()
+Recommendation. MM, 2023. [CODE](https://github.com/HuilinChenJN/SGFD) 
 
 Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [CODE](https://github.com/Liuwq-bit/LightGT) [PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)
 
