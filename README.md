@@ -7,6 +7,3 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 <b>RESEARCH INTEREST:</b>
 * Multimedia Search and Recommendation
 
-## For more information
-More info about me can be found in [CV](https://liufancs.github.io/cv/).
-
