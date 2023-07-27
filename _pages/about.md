@@ -17,26 +17,26 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 
 ## Selected Publications
-. **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
-Recommendation. MM, 2023. [CODE](https://github.com/HuilinChenJN/SGFD) 
+* **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
+Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD) 
 
-. Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [CODE](https://github.com/Liuwq-bit/LightGT) [PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)
+* Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [Code&Data](https://github.com/Liuwq-bit/LightGT) [PDF](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)
 
-Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [CODE](https://github.com/SS-00-SS/MBCGCN) [PDF](https://arxiv.org/pdf/2303.15720.pdf)
+* Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [Code&Data](https://github.com/SS-00-SS/MBCGCN) [PDF](https://arxiv.org/pdf/2303.15720.pdf)
 
-**Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [CODE](https://github.com/HuilinChenJN/UPC-SDG) [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
+* **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [Code&Data](https://github.com/HuilinChenJN/UPC-SDG) [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
 
-**Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [CODE](https://github.com/liufancs/DMRL) [PDF](https://arxiv.org/abs/2203.05406)
+* **Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [Code&Data](https://github.com/liufancs/DMRL) [PDF](https://arxiv.org/abs/2203.05406)
 
-Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu, Liqiang Nie. Feature-level Attentive ICF for Recommendation. TOIS, 2022. [CODE](https://github.com/liufancs/FLA) [PDF](https://arxiv.org/abs/2102.10745)
+* Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu, Liqiang Nie. Feature-level Attentive ICF for Recommendation. TOIS, 2022. [Code&Data](https://github.com/liufancs/FLA) [PDF](https://arxiv.org/abs/2102.10745)
 
-Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. TKDE, 2022. [CODE](https://github.com/AnsongLi/Disen-GNN) [PDF](https://arxiv.org/abs/2201.03482)
+* Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. TKDE, 2022. [Code&Data](https://github.com/AnsongLi/Disen-GNN) [PDF](https://arxiv.org/abs/2201.03482)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao, Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. WWW, 2021. [CODE](https://github.com/liufancs/IMP_GCN) [PDF](https://arxiv.org/pdf/2102.10044.pdf)
+* **Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao, Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. WWW, 2021. [Code&Data](https://github.com/liufancs/IMP_GCN) [PDF](https://arxiv.org/pdf/2102.10044.pdf)
 
-**Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu, Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. TKDE, 2020. [CODE](https://github.com/liufancs/a2_gcn) [PDF](https://ieeexplore.ieee.org/document/9272360)
+* **Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu, Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. TKDE, 2020. [Code&Data](https://github.com/liufancs/a2_gcn) [PDF](https://ieeexplore.ieee.org/document/9272360)
 
-**Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [CODE](https://github.com/liufancs/MAML) [PDF](https://arxiv.org/abs/1908.07738)
+* **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [Code&Data](https://github.com/liufancs/MAML) [PDF](https://arxiv.org/abs/1908.07738)
 
 ## Community Services
 * Program Committee Member of **KDD 2023, WSDM 2023**
