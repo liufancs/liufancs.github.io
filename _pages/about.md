@@ -26,7 +26,7 @@ Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavio
 
 **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [CODE](https://github.com/HuilinChenJN/UPC-SDG) [PDF](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
 
-**Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. IEEE Transactions on Multimedia (TMM), 2022. [CODE](https://github.com/liufancs/DMRL) [PDF](https://arxiv.org/abs/2203.05406)
+**Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [CODE](https://github.com/liufancs/DMRL) [PDF](https://arxiv.org/abs/2203.05406)
 
 Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu, Liqiang Nie. Feature-level Attentive ICF for Recommendation. TOIS, 2022. [CODE](https://github.com/liufancs/FLA) [PDF](https://arxiv.org/abs/2102.10745)
 
