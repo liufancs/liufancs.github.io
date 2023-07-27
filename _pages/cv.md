@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: //
+permalink: /CV/
 author_profile: False
 redirect_from:
   - /resume
