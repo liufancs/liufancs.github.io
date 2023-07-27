@@ -38,6 +38,12 @@ Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD)
 
 * **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [Code&Data](https://github.com/liufancs/MAML) [Paper](https://arxiv.org/abs/1908.07738)
 
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 ## Community Services
 * Program Committee Member of **ACM MM2023, KDD 2023, WSDM 2023**
 * Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
