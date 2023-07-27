@@ -58,6 +58,3 @@ Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD)
 * Invited Reviewer for **Multimedia Tools and Applications (MTAP)**
 * External Reviewer of **CIKM 2021, MMM 2020, PCM 2018**
 
-
-## For more information
-More info about Fan Liu can be found in [CV](https://liufancs.github.io/cv/).
