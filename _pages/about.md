@@ -21,11 +21,11 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 1. **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
 Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD) 
 
-2. Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [Code&Data](https://github.com/Liuwq-bit/LightGT) [Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)
+2. Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [[Codes&Data](https://github.com/Liuwq-bit/LightGT) [Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)]
 
-3. Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [Code&Data](https://github.com/SS-00-SS/MBCGCN) [Paper](https://arxiv.org/pdf/2303.15720.pdf)
+3. Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [[Codes&Data](https://github.com/SS-00-SS/MBCGCN) [Paper](https://arxiv.org/pdf/2303.15720.pdf)]
 
-4. **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [Code&Data](https://github.com/HuilinChenJN/UPC-SDG) [Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
+4. **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [[Codes&Data](https://github.com/HuilinChenJN/UPC-SDG)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)]
 
 5. **Fan Liu** *, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [Code&Data](https://github.com/liufancs/DMRL) [Paper](https://arxiv.org/abs/2203.05406)
 
