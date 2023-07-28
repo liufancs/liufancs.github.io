@@ -29,7 +29,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 * **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)**
   * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
-* **Jining University, Jining, China. （Sep. 2015 - Aug. 2018）**
+* **Jining University, Jining, China. （Sep. 2016 - Aug. 2018）**
   * Lecturer in Department of Computing 
   
 ## Selected Publications
