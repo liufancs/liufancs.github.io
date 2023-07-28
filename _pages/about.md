@@ -24,6 +24,13 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
   - Supervisor: Prof. Ebara Hiroyuki
 -  **Southeast University, Nanjing, China. (2006 - 2010)**
    - B.S. in School of Computer Science and Engineering
+ 
+## Work experience
+* **National University of Singapore, Singapore. (2021)**
+  * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
+  * Supervisor: Prof. Mohan Kankanhalli
+* **Jining University, Jining, China. （Sep. 2015 - Aug. 2018）**
+  * Lecturer in Department of Computing 
   
 ## Selected Publications
 ‘*’ indicates the corresponding author.
