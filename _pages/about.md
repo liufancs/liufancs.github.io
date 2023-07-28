@@ -19,10 +19,10 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 - **Shandong University, Qingdao, China. (Sep. 2018 - Sep. 2021)** <img align="Right" src="images/sdu_logo.jpg" width="95" height="95"/>
   - Ph.D. in School of Computer Science and Technology 
   - Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng 
-- **Kansai University, Osaka, Japan. (Apr. 2012 - Mar. 2015)** <img align="Right" src="images/KU_logo.jpg" width="80" height="80"/>
+- **Kansai University, Osaka, Japan. (Apr. 2012 - Mar. 2015)** <img align="Right" src="images/KU_logo.jpg" width="90" height="90"/>
   - M.S. in Department of Electrical and Electronic Engineering
   - Supervisor: Prof. Ebara Hiroyuki
--  **Southeast University, Nanjing, China. (Sep. 2006 - Jun. 2010)** <img align="Right" src="images/SEU_logo.png" width="80" height="80"/>
+-  **Southeast University, Nanjing, China. (Sep. 2006 - Jun. 2010)** <img align="Right" src="images/SEU_logo.png" width="85" height="85"/>
    - B.S. in School of Computer Science and Engineering
  
 ## Work experience
