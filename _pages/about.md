@@ -50,7 +50,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)]
 * IEEE Transactions on Multimedia Outstanding Reviewer Award
 * ACM WSDM 2022 Outstanding Program Committee Member Award
 * Outstanding Graduate Student at Shandong University (2020, 2019)
-* Doctoral Academic Scholarship at Shandong University (2020. 2019, 2018)
+* Doctoral Academic Scholarship at Shandong University (2020, 2019, 2018)
 
 
 
