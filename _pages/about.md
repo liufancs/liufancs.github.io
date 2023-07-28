@@ -9,13 +9,13 @@ redirect_from:
 ---
 This is Fan Liu's personal homepage.
 
-## A short introduction
+### A short introduction
 I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/) in [School of Computing](https://www.comp.nus.edu.sg/), [National University of Singapore](https://www.nus.edu.sg/). I received my Ph.D degree at [Shandong University](https://www.sdu.edu.cn/), under the supervision of [Prof. Liqiang Nie](https://liqiangnie.github.io/index.html) and [Prof. Zhiyong Cheng](https://sites.google.com/view/zycheng). I received the B.Eng. degree from [Southeast University](https://www.seu.edu.cn/) in China and the Master degree from the [Kansai University](https://www.kansai-u.ac.jp/) in Japan, under the supervision of [Prof. Ebara Hiroyuki](https://gakujo.kansai-u.ac.jp/profile/en/3b9d26c7eb2cecuf4f1fdf+f7077b.html). My research interests lie primarily in multimedia search and recommendation. I was a visiting scholar at [N-CRiPT@NUS](https://ncript.comp.nus.edu.sg/) in 2021.
 
 <b>RESEARCH INTEREST:</b>
 * Multimedia Search and Recommendation
 
-## Education
+### Education
 - **Shandong University, Qingdao, China. (Sep. 2018 - Sep. 2021)** <img align="Right" src="images/sdu_logo.jpg" width="100" height="100"/>
   - Ph.D. in School of Computer Science and Technology 
   - Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng 
@@ -25,12 +25,12 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 -  **Southeast University, Nanjing, China. (Sep. 2006 - Jun. 2010)** <img align="Right" src="images/SEU_logo.png" width="85" height="85"/>
    - B.S. in School of Computer Science and Engineering
  
-## Experience
+### Experience
 * **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
   * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
     
-## Selected Publications
+### Selected Publications
 ‘*’ indicates the corresponding author.
 1. **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
 Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] 
@@ -54,7 +54,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)]
 10. **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [[Codes&Data](https://github.com/liufancs/MAML)] [[Paper](https://arxiv.org/abs/1908.07738)]
 
   
-## Community Services
+### Community Services
 * Program Committee Member of **ACM MM2023, KDD 2023, WSDM 2023**
 * Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
 * Program Committee Member of **ACM MM 2021, 2020**
