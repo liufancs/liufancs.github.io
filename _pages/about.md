@@ -43,7 +43,18 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)]
 9. **Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu, Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. TKDE, 2020. [[Codes&Data](https://github.com/liufancs/a2_gcn)] [[Paper](https://ieeexplore.ieee.org/document/9272360)]
 10. **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [[Codes&Data](https://github.com/liufancs/MAML)] [[Paper](https://arxiv.org/abs/1908.07738)]
 
-  
+### Awards
+* Outstanding Doctoral Theis Reward in ACM SIGMM China, 2022
+* Outstanding Doctoral Theis Reward in Shandong Conference on Artificial Intelligence, 2022
+* ACM Multimedia 2022 Conversational Head Generation Challenge Award
+* IEEE Transactions on Multimedia Outstanding Reviewer Award
+* ACM WSDM 2022 Outstanding Program Committee Member Award
+* Outstanding Graduate Student at Shandong University (2020, 2019)
+* Doctoral Academic Scholarship at Shandong University (2020. 2019, 2018)
+
+
+
+
 ### Community Services
 * Program Committee Member of **ACM MM2023, KDD 2023, WSDM 2023**
 * Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
