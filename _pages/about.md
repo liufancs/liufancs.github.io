@@ -17,6 +17,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 
 
 ## Selected Publications
+‘*’ indicates the corresponding author.
 * **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
 Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD) 
 
@@ -26,7 +27,7 @@ Recommendation. MM, 2023. [Code&Data](https://github.com/HuilinChenJN/SGFD)
 
 * **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [Code&Data](https://github.com/HuilinChenJN/UPC-SDG) [Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)
 
-* **Fan Liu**, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [Code&Data](https://github.com/liufancs/DMRL) [Paper](https://arxiv.org/abs/2203.05406)
+* **Fan Liu** *, Huilin Chen, Zhiyong Cheng, Anan Liu, Liqiang Nie, Mohan Kankanhalli. Disentangled Multimodal Representation Learning for Recommendation. TMM, 2022. [Code&Data](https://github.com/liufancs/DMRL) [Paper](https://arxiv.org/abs/2203.05406)
 
 * Zhiyong Cheng, **Fan Liu**, Shenghan Mei, Yangyang Guo, Lei Zhu, Liqiang Nie. Feature-level Attentive ICF for Recommendation. TOIS, 2022. [Code&Data](https://github.com/liufancs/FLA) [Paper](https://arxiv.org/abs/2102.10745)
 
