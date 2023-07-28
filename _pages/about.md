@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fan Liu"
+title: "Fan Liu (刘帆)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
