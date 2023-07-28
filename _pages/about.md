@@ -16,7 +16,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 * Multimedia Search and Recommendation
 
 ## Education
-- **Shandong University, Qingdao, China. (Sep. 2018 - Sep. 2021)** <img align="Right" src="https://github.com/liufancs/liufancs.github.io/blob/main/images/profile.jpg" width="70" height="70"/>
+- **Shandong University, Qingdao, China. (Sep. 2018 - Sep. 2021)** <img align="Right" src="https://github.com/liufancs/liufancs.github.io/blob/main/images/sdu_logo.jpg" width="80" height="80"/>
   - Ph.D. in School of Computer Science and Technology 
   - Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng 
 - **Kansai University, Osaka, Japan. (Apr. 2012 - Mar. 2015)**
