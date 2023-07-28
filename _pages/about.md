@@ -15,7 +15,13 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 <b>RESEARCH INTEREST:</b>
 * Multimedia Search and Recommendation
 
-
+## Education
+* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021
+	* Supervisors: Prof. [Liqiang Nie](https://scholar.google.com/citations?user=yywVMhUAAAAJ&hl=en) and Prof. [Zhiyong Cheng](https://scholar.google.com/citations?hl=en&user=0ffIKdIAAAAJ)
+* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
+	* Supervisor: Prof. [Ebara Hiroyuki](https://gakujo.kansai-u.ac.jp/profile/ja/3b9d26c7eb2cecuf4f1fdf+f7077b.html?#three)
+* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
+  
 ## Selected Publications
 ‘*’ indicates the corresponding author.
 1. **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
