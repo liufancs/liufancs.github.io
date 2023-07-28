@@ -16,11 +16,14 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 * Multimedia Search and Recommendation
 
 ## Education
-* Ph.D. in School of Computer Science and Technology, Shandong University, Qingdao, China, 2021
-	* Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng
-* M.S. in Department of Electrical and Electronic Engineering, Kansai University, Osaka, Japan, 2015
-	* Supervisor: Prof. Ebara Hiroyuki
-* B.S. in School of Computer Science and Engineering, Southeast University, Nanjing, China, 2010
+- **Shandong University, Qingdao, China. (2018 - 2021)**
+  - Ph.D. in School of Computer Science and Technology
+  - Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng
+- **Kansai University, Osaka, Japan. (2012 - 2015)**
+  - M.S. in Department of Electrical and Electronic Engineering
+  - Supervisor: Prof. Ebara Hiroyuki
+-  **Southeast University, Nanjing, China. (2006 - 2010)**
+   - B.S. in School of Computer Science and Engineering
   
 ## Selected Publications
 ‘*’ indicates the corresponding author.
