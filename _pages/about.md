@@ -26,7 +26,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
    - B.S. in School of Computer Science and Engineering
  
 ## Experience
-* **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="200" height="200"/>
+* **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
   * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
     
