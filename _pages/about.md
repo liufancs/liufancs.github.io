@@ -22,7 +22,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 - **Kansai University, Osaka, Japan. (Apr. 2012 - Mar. 2015)** <img align="Right" src="images/KU_logo.jpg" width="80" height="80"/>
   - M.S. in Department of Electrical and Electronic Engineering
   - Supervisor: Prof. Ebara Hiroyuki
--  **Southeast University, Nanjing, China. (Sep. 2006 - Jun. 2010)**
+-  **Southeast University, Nanjing, China. (Sep. 2006 - Jun. 2010)** <img align="Right" src="images/SEU_logo.jpg" width="80" height="80"/>
    - B.S. in School of Computer Science and Engineering
  
 ## Work experience
