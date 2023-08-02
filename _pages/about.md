@@ -41,7 +41,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)]
 7. Ansong Li, Zhiyong Cheng, **Fan Liu**, Zan Gao, Weili Guan, Yuxin Peng. Disentangled Graph Neural Networks for Session-based Recommendation. TKDE, 2022. [[Codes&Data](https://github.com/AnsongLi/Disen-GNN)] [[Paper](https://arxiv.org/abs/2201.03482)]
 8. **Fan Liu**, Zhiyong Cheng, Lei Zhu, Zan Gao, Liqiang Nie. Interest-aware Message-Passing GCN for Recommendation. WWW, 2021. [[Codes&Data](https://github.com/liufancs/IMP_GCN)] [[Paper](https://arxiv.org/pdf/2102.10044.pdf)]
 9. **Fan Liu**, Zhiyong Cheng, Lei Zhu, Chenghao Liu, Liqiang Nie. An Attribute-aware Attentive GCN Model for Attribute Missing in Recommendation. TKDE, 2020. [[Codes&Data](https://github.com/liufancs/a2_gcn)] [[Paper](https://ieeexplore.ieee.org/document/9272360)]
-10. **Fan Liu**, Zhiyong Cheng, Changchang, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [[Codes&Data](https://github.com/liufancs/MAML)] [[Paper](https://arxiv.org/abs/1908.07738)]
+10. **Fan Liu**, Zhiyong Cheng, Changchang Sun, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [[Codes&Data](https://github.com/liufancs/MAML)] [[Paper](https://arxiv.org/abs/1908.07738)]
 
 ### Awards
 * Outstanding Doctoral Theis Reward in ACM SIGMM China, 2022
