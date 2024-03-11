@@ -58,7 +58,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 
 
 ### Community Services
-* Area Chair of **ACM MM 2024**
+* Area Chair or Senior Program Committee Member of **ACM MM 2024, CIKM 2024**
 * Program Committee Member of **WWW 2024, SIGIR 2024, WSDM 2024**
 * Program Committee Member of **ACM MM2023, KDD 2023, WSDM 2023**
 * Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
