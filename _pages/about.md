@@ -51,19 +51,18 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 * ACM Multimedia 2022 Conversational Head Generation Challenge Award
 * IEEE Transactions on Multimedia Outstanding Reviewer Award
 * ACM WSDM 2022 Outstanding Program Committee Member Award
-* Outstanding Graduate Student at Shandong University (2020, 2019)
-* Doctoral Academic Scholarship at Shandong University (2020, 2019, 2018)
+
 
 
 
 
 ### Community Services
 * Area Chair or Senior PC Member of **ACM MM 2024, CIKM 2024**
-* Program Committee Member of **WWW 2024, SIGIR 2024, WSDM 2024**
-* Program Committee Member of **ACM MM2023, KDD 2023, WSDM 2023**
-* Program Committee Member of **ACM MM 2022, KDD 2022, WSDM 2022** 
-* Program Committee Member of **ACM MM 2021, 2020**
-* Invited Reviewer for **ICPR 2022, MM Asia 2021**
+* PC Member or Reviewer of **WWW 2024, SIGIR 2024, WSDM 2024**
+* PC Member or Reviewer of **ACM MM2023, KDD 2023, WSDM 2023**
+* PC Member or Reviewer of **ACM MM 2022, KDD 2022, WSDM 2022, ICPR 2022** 
+* PC Member or Reviewer of **ACM MM 2021, MM Asia 2021**
+* PC Member or Reviewer of **ACM MM 2020**
 * Invited Reviewer for **Transactions on Knowledge and Data Engineering (TKDE)**
 * Invited Reviewer for **Transactions on Information Systems (TOIS)**
 * Invited Reviewer for **Transactions on Multimedia (TMM)**
@@ -71,7 +70,5 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
  (TCSVT)**
 * Invited Reviewer for **Information Sciences (INS)**
 * Invited Reviewer for **Information Processing and Management (IPM)**
-* Invited Reviewer for **Multimedia Systems (MMSJ))**
-* Invited Reviewer for **Multimedia Tools and Applications (MTAP)**
-* External Reviewer of **CIKM 2021, MMM 2020, PCM 2018**
+
 
