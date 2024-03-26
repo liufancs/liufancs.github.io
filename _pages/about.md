@@ -32,6 +32,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
     
 ### Selected Publications
 ‘*’ indicates the corresponding author.
+* Mingshi Yan, **Fan Liu**, Jing Sun, Fuming Sun, Zhiyong Cheng, Yahong Han. Behavior-Contextualized Item Preference Network for Multi-Behavior Recommendation. SIGIR, 2024.
 * **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
 Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [[Paper](https://arxiv.org/pdf/2308.03113.pdf)]
 * Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [[Codes&Data](https://github.com/Liuwq-bit/LightGT)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)]
