@@ -32,6 +32,8 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
     
 ### Selected Publications
 ‘*’ indicates the corresponding author.
+
+* **Fan Liu**, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. Arxiv, 2024.
 * **Fan Liu**, Shuai Zhao, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Cluster-based Graph Collaborative Filtering. Arxiv, 2024. 
 * Mingshi Yan, **Fan Liu**, Jing Sun, Fuming Sun, Zhiyong Cheng, Yahong Han. Behavior-Contextualized Item Preference Network for Multi-Behavior Recommendation. SIGIR, 2024. Accepted.
 * **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
