@@ -75,6 +75,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 * Invited Reviewer for **Transactions on Knowledge Discovery from Data (TKDD)**
 * Invited Reviewer for **Transactions on Circuits and Systems for Video Technology
  (TCSVT)**
+* Invited Reviewer for **International Journal of Computer Vision (IJCV)**
 * Invited Reviewer for **Information Sciences (INS)**
 * Invited Reviewer for **Information Processing and Management (IPM)**
 
