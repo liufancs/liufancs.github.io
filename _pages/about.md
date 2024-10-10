@@ -53,31 +53,32 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 * **Fan Liu**, Zhiyong Cheng, Changchang Sun, Yinglong Wang, Liqiang Nie, Mohan Kankanhalli. User Diverse Preference Modeling via Multimodal Attentive Metric Learning. MM, 2019. [[Codes&Data](https://github.com/liufancs/MAML)] [[Paper](https://arxiv.org/abs/1908.07738)]
 
 ### Awards
-* Outstanding Doctoral Theis Reward in ACM SIGMM China, 2022
-* Outstanding Doctoral Theis Reward in Shandong Conference on Artificial Intelligence, 2022
+* ECCV 2024 Corner Case Scene Generation Challenge 1st Place Award
 * ACM Multimedia 2022 Conversational Head Generation Challenge Award
 * IEEE Transactions on Multimedia Outstanding Reviewer Award
 * ACM WSDM 2022 Outstanding Program Committee Member Award
+* Outstanding Doctoral Theis Reward in ACM SIGMM China, 2022
+* Outstanding Doctoral Theis Reward in Shandong Conference on Artificial Intelligence, 2022
+
 
 
 
 
 
 ### Community Services
-* Area Chair or Senior PC Member of **ACM MM 2024, CIKM 2024**
-* PC Member or Reviewer of **ICML2024, WWW 2024, SIGIR 2024, WSDM 2024**
-* PC Member or Reviewer of **ACM MM2023, KDD 2023, WSDM 2023**
-* PC Member or Reviewer of **ACM MM 2022, KDD 2022, WSDM 2022, ICPR 2022** 
-* PC Member or Reviewer of **ACM MM 2021, MM Asia 2021**
-* PC Member or Reviewer of **ACM MM 2020**
-* Invited Reviewer for **Transactions on Knowledge and Data Engineering (TKDE)**
-* Invited Reviewer for **Transactions on Information Systems (TOIS)**
-* Invited Reviewer for **Transactions on Multimedia (TMM)**
-* Invited Reviewer for **Transactions on Knowledge Discovery from Data (TKDD)**
-* Invited Reviewer for **Transactions on Circuits and Systems for Video Technology
+## Area Chair or Senior PC Member
+* **ACM MM 2024, CIKM 2024**
+## PC Member
+**ICML2024, WWW 2024-2025, SIGIR 2024, WSDM 2022-2025, MM 2020-2023, KDD 2022-2023**
+## Reviewer
+**Transactions on Knowledge and Data Engineering (TKDE)**
+**Transactions on Information Systems (TOIS)**
+**Transactions on Multimedia (TMM)**
+**Transactions on Knowledge Discovery from Data (TKDD)**
+**Transactions on Circuits and Systems for Video Technology
  (TCSVT)**
-* Invited Reviewer for **International Journal of Computer Vision (IJCV)**
-* Invited Reviewer for **Information Sciences (INS)**
-* Invited Reviewer for **Information Processing and Management (IPM)**
+**International Journal of Computer Vision (IJCV)**
+**Information Sciences (INS)**
+**Information Processing and Management (IPM)**
 
 
