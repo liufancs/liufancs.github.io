@@ -33,7 +33,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 ### Selected Publications
 ‘*’ indicates the corresponding author.
 
-* **Fan Liu***, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. TOIS, 2024.
+* **Fan Liu***, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. TOIS, 2024. [[Codes&Data](https://github.com/HuilinChenJN/LLMSAGCN)] [[Paper](https://arxiv.org/pdf/2312.16275)]
 * Yu-Wei Zhan, **Fan Liu**, Xin Luo, Xin-Shun Xu, Liqiang Nie, Mohan Kankanhalli. Enhancing HOI Detection with Contextual Cues from Large Vision-Language Models. Under review, 2024.
 * **Fan Liu***, Shuai Zhao, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Cluster-based Graph Collaborative Filtering. TOIS, 2024.
 * Zhenyang Li, **Fan Liu***, Yinwei Wei, Zhiyong Cheng, Liqiang Nie *, Mohan Kankanhalli. Attribute-driven Disentangled Representation Learning for Multimodal Recommendation. MM, 2024.
