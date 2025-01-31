@@ -67,9 +67,9 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 
 ### Community Services
 * **Area Chair or Senior PC Member**  
-ACM MM 2024, CIKM 2024
+ICME 2025, MM 2024, CIKM 2024
 * **PC Member**  
-ICML2024, WWW 2024-2025, SIGIR 2024, WSDM 2022-2025, MM 2020-2023, KDD 2022-2023
+ICML2024, WWW 2024-2025, SIGIR 2024-2025, WSDM 2022-2025, MM 2020-2023, KDD 2022-2023
 * **Reviewer**  
 Transactions on Knowledge and Data Engineering (TKDE)  
 Transactions on Information Systems (TOIS)  
