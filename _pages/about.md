@@ -75,8 +75,7 @@ ICML2024, WWW 2024-2025, SIGIR 2024-2025, WSDM 2022-2025, MM 2020-2023, KDD 2022
 * **Reviewer**  
 IEEE Transactions on Knowledge and Data Engineering (TKDE)
 IEEE Transactions on Multimedia (TMM) 
-IEEE Transactions on Circuits and Systems for Video Technology
- (TCSVT)  
+IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)  
 ACM Transactions on Information Systems (TOIS)  
 ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM) 
 ACM Transactions on Knowledge Discovery from Data (TKDD)  
