@@ -34,7 +34,7 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 ‘*’ indicates the corresponding author.
 * Yang Tian, **Fan Liu**, Jingyuan Zhang, Victoria W., Yupeng Hu, Liqiang Nie. CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG. ACL, 2025.
 * **Fan Liu***, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. TOIS, 2025. [[Codes&Data](https://github.com/HuilinChenJN/LLMSAGCN)] [[Paper](https://arxiv.org/pdf/2312.16275)]
-* Yu-Wei Zhan, **Fan Liu***, Xin Luo, Xin-Shun Xu, Liqiang Nie, Mohan Kankanhalli. Enhancing HOI Detection with Contextual Cues from Large Vision-Language Models. Under review, 2024.
+* Yu-Wei Zhan, **Fan Liu***, Xin Luo, Xin-Shun Xu, Liqiang Nie, Mohan Kankanhalli. Enhancing HOI Detection with Contextual Cues from Large Vision-Language Models. Under review, 2025.
 * **Fan Liu***, Shuai Zhao, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Cluster-based Graph Collaborative Filtering. TOIS, 2024. [[Codes&Data](https://github.com/zhao254014/ClusterGCF)][[Paper](https://dl.acm.org/doi/abs/10.1145/3687481)]
 * Zhenyang Li, **Fan Liu***, Yinwei Wei, Zhiyong Cheng, Liqiang Nie *, Mohan Kankanhalli. Attribute-driven Disentangled Representation Learning for Multimodal Recommendation. MM, 2024. [[Codes&Data](https://github.com/SDLZY/AD-DRL)][[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681148)]
 * Zhicheng Sheng, **Fan Liu***, Meng Liu, Feng Zheng, Liqiang Nie *. Open-set Synthesis for Free-viewpoint Human Body Reenactment of Novel Poses. TCSVT, 2024. [[Codes&Data]()][[Paper](https://ieeexplore.ieee.org/abstract/document/10613821)]
