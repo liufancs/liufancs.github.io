@@ -32,8 +32,8 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
     
 ### Selected Publications
 ‘*’ indicates the corresponding author.
-
-* **Fan Liu***, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. TOIS, 2024. [[Codes&Data](https://github.com/HuilinChenJN/LLMSAGCN)] [[Paper](https://arxiv.org/pdf/2312.16275)]
+* Yang Tian, **Fan Liu**, Jingyuan Zhang, Victoria W., Yupeng Hu, Liqiang Nie. CoRe-MMRAG: Cross-Source Knowledge Reconciliation for Multimodal RAG. ACL, 2025.
+* **Fan Liu***, Yaqi Liu, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Understanding Before Recommendation: Semantic Aspect-Aware Review Exploitation via Large Language Models. TOIS, 2025. [[Codes&Data](https://github.com/HuilinChenJN/LLMSAGCN)] [[Paper](https://arxiv.org/pdf/2312.16275)]
 * Yu-Wei Zhan, **Fan Liu**, Xin Luo, Xin-Shun Xu, Liqiang Nie, Mohan Kankanhalli. Enhancing HOI Detection with Contextual Cues from Large Vision-Language Models. Under review, 2024.
 * **Fan Liu***, Shuai Zhao, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Cluster-based Graph Collaborative Filtering. TOIS, 2024. [[Codes&Data](https://github.com/zhao254014/ClusterGCF)][[Paper](https://dl.acm.org/doi/abs/10.1145/3687481)]
 * Zhenyang Li, **Fan Liu***, Yinwei Wei, Zhiyong Cheng, Liqiang Nie *, Mohan Kankanhalli. Attribute-driven Disentangled Representation Learning for Multimodal Recommendation. MM, 2024. [[Codes&Data](https://github.com/SDLZY/AD-DRL)][[Paper](https://dl.acm.org/doi/pdf/10.1145/3664647.3681148)]
@@ -41,7 +41,6 @@ I am currently a Research Fellow with [Prof. Mohan Kankanhalli](https://www.comp
 * Mingshi Yan, **Fan Liu**, Jing Sun, Fuming Sun, Zhiyong Cheng, Yahong Han. Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation. SIGIR, 2024.  [[Codes&Data](https://github.com/MingshiYan/BIPN)][[Paper](https://arxiv.org/abs/2404.18166)]
 * **Fan Liu**, Huilin Chen, Zhiyong Cheng, Liqiang Nie, Mohan Kankanhalli. Semantic-Guided Feature Distillation for Multimodal
 Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [[Paper](https://arxiv.org/pdf/2308.03113.pdf)]
-* Yinwei Wei, Wenqi Liu, **Fan Liu**, Xiang Wang, Liqiang Nie, Tat-Seng Chua. LightGT: A Light Graph Transformer for Multimedia Recommendation. SIGIR, 2023. [[Codes&Data](https://github.com/Liuwq-bit/LightGT)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3539618.3591716)]
 * Zhiyong Cheng, Sai Han, **Fan Liu**, Lei Zhu, Zan Gao, Yuxin Peng. Multi-Behavior Recommendation with Cascading Graph Convolution Networks. WWW, 2023. [[Codes&Data](https://github.com/SS-00-SS/MBCGCN)] [[Paper](https://arxiv.org/pdf/2303.15720.pdf)]
 * Han Liu, Yinwei Wei, **Fan Liu**, Wenjie Wang, Liqiang Nie, Tat-Seng Chua. Dynamic Multimodal Fusion via Meta-Learning Towards Micro-Video Recommendation. TOIS, 2023. [[Codes&Data](https://github.com/hanliu95/MetaMMF)][[Paper](https://dl.acm.org/doi/pdf/10.1145/3617827)]
 * **Fan Liu**, Zhiyong Cheng, Huilin Chen, Yinwei Wei, Liqiang Nie, Mohan Kankanhalli. Privacy-Preserving Synthetic Data Generation for Recommendation Systems. SIGIR, 2022. [[Codes&Data](https://github.com/HuilinChenJN/UPC-SDG)] [[Paper](https://dl.acm.org/doi/abs/10.1145/3477495.3532044)]
