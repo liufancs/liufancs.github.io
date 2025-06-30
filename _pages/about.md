@@ -66,7 +66,7 @@ Recommendation. MM, 2023. [[Codes&Data](https://github.com/HuilinChenJN/SGFD)] [
 
 ### Community Services
 * **Area Chair/Senior PC Member**  
-ICME 2025, MM 2024, CIKM 2024
+ACM MM 2024-2025, CIKM 2024-2025, IEEE ICME 2025
 * **Associate Editor/Guest Editor**  
 ACM Transactions on Multimedia Computing, Communications, and Applications (ToMM)
 * **PC Member**  
