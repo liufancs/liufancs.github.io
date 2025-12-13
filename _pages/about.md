@@ -27,11 +27,11 @@ I am a Professor at Southeast University. Previously, I was a Research Fellow at
  
 ### Experience
 
-* **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
+* **National University of Singapore, Singapore. (Oct. 2021 - Nov. 2025)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
   * Research Fellow
   * Supervisor: Prof. Mohan Kankanhalli
     
-* **National University of Singapore, Singapore. (Apr. 2021 - Sep. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
+* **National University of Singapore, Singapore. (Apr. 2021 - Oct. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
   * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
     
