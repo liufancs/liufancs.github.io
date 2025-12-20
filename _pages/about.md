@@ -16,22 +16,22 @@ I am a Professor at Southeast University. I received my Ph.D degree from Shandon
 * Recommendation
 
 ### Education
-- **Shandong University, Qingdao, China.** <img align="Right" src="images/SDU_logo.png" width="90" height="90"/>
+- **Shandong University, Qingdao, China.** 
   - Ph.D. in School of Computer Science and Technology 
   - Supervisors: Prof. Liqiang Nie and Prof. Zhiyong Cheng 
-- **Kansai University, Osaka, Japan.** <img align="Right" src="images/KU_logo.jpg" width="90" height="90"/>
+- **Kansai University, Osaka, Japan.** 
   - M.S. in Department of Electrical and Electronic Engineering
   - Supervisor: Prof. Ebara Hiroyuki
--  **Southeast University, Nanjing, China.** <img align="Right" src="images/SEU_logo.png" width="90" height="90"/>
+-  **Southeast University, Nanjing, China.** 
    - B.S. in School of Computer Science and Engineering
  
 ### Experience
 
-* **National University of Singapore, Singapore. (Oct. 2021 - Nov. 2025)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
+* **National University of Singapore, Singapore. (Oct. 2021 - Nov. 2025)** 
   * Research Fellow
   * Supervisor: Prof. Mohan Kankanhalli
     
-* **National University of Singapore, Singapore. (Apr. 2021 - Oct. 2021)** <img align="Right" src="images/NUS_logo2.jpg" width="250" height="250"/>
+* **National University of Singapore, Singapore. (Apr. 2021 - Oct. 2021)** 
   * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
     
