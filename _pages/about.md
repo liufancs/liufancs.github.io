@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ### About Me
-I am a Professor at Southeast University. I received my Ph.D degree from Shandong University, supervised by [Prof. Liqiang Nie](https://liqiangnie.github.io/index.html) and [Prof. Zhiyong Cheng](https://sites.google.com/view/zycheng). Subsequently, I served as a Research Fellow at the School of Computing, National University of Singapore, where I worked with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). I received the B.Eng. degree from Southeast University in China and the Master degree from Kansai University in Japan, under the supervision of [Prof. Ebara Hiroyuki](https://gakujo.kansai-u.ac.jp/profile/en/3b9d26c7eb2cecuf4f1fdf+f7077b.html). My research interests include multimedia, information retrieval, and recommendation, with a focus on large language models and intelligent agents. 
+I am a Professor at Southeast University. I received my Ph.D degree from Shandong University, supervised by [Prof. Liqiang Nie](https://liqiangnie.github.io/index.html) and [Prof. Zhiyong Cheng](https://sites.google.com/view/zycheng). I served as a Research Fellow at the School of Computing, National University of Singapore, where I worked with [Prof. Mohan Kankanhalli](https://www.comp.nus.edu.sg/~mohan/). I received the B.Eng. degree from Southeast University in China and the Master degree from Kansai University in Japan, under the supervision of [Prof. Ebara Hiroyuki](https://gakujo.kansai-u.ac.jp/profile/en/3b9d26c7eb2cecuf4f1fdf+f7077b.html). My research interests include multimedia, information retrieval, and recommendation, with a focus on large language models and intelligent agents. 
 
 <b>RESEARCH INTEREST:</b>
 * Multimedia Information Retrieval 
