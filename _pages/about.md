@@ -27,12 +27,8 @@ I am a Professor at Southeast University. I received my Ph.D degree from Shandon
  
 ### Experience
 
-* **National University of Singapore, Singapore. (Oct. 2021 - Nov. 2025)** 
+* **National University of Singapore, Singapore** 
   * Research Fellow
-  * Supervisor: Prof. Mohan Kankanhalli
-    
-* **National University of Singapore, Singapore. (Apr. 2021 - Oct. 2021)** 
-  * Research Intern in NUS Centre for Research in Privacy Technologies (N-CRiPT) 
   * Supervisor: Prof. Mohan Kankanhalli
     
 ### Selected Publications
